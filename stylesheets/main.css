@@ -1,0 +1,19 @@
+/* This is a comment in CSS. */
+.tagline-style {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #1111ef;
+    text-align: center;
+ }
+ body {
+    background-color: hsl(193, 57%, 63%);
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+  }
+  .title-style{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(211, 16, 16);
+  }
