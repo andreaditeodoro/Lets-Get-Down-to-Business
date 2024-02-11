@@ -5,8 +5,8 @@
     color: #1111ef;
     text-align: center;
  }
- .body {
-    background-color: hsl(193, 60%, 57%);
+ body {
+    background-color: hsl(193, 52%, 55%);
     font-family: Helvetica, sans-serif;
     text-align: center;
   }
