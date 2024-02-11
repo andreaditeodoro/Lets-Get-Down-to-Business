@@ -5,8 +5,8 @@
     color: #1111ef;
     text-align: center;
  }
- body {
-    background-color: hsl(193, 57%, 63%);
+ .body {
+    background-color: hsl(193, 60%, 57%);
     font-family: Helvetica, sans-serif;
     text-align: center;
   }
@@ -16,4 +16,13 @@
     font-size: 30pt;
     font-family: 'Times New Roman', Times, serif;
     color: rgb(17, 15, 15);
+  }
+  .text-descriptions-style{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    margin: auto;
+    width: 1000pt;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 147, 188);
   }
