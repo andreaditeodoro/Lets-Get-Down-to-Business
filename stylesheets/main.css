@@ -12,8 +12,8 @@
   }
   .title-style{
     text-align: center;
-    width: 600px;
     margin: 0 auto;
+    font-size: 40pt;
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(211, 16, 16);
+    color: rgb(17, 15, 15);
   }
